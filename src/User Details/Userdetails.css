@@ -1,0 +1,28 @@
+.userdetailstable table,.userdetailstable td,.userdetailstable th,.userdetailstable tr{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+}
+
+.userdetailspage{
+    background-image: url('../../public/homepagebackgroundimage1.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.userdetailsdiv{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bolder;
+}
+
+.userdetailsheading{
+    text-align: center;
+    font-weight: bold;
+    padding: 1rem;
+}
+
